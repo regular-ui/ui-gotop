@@ -1,0 +1,13 @@
+@import './core.mcss';
+
+// Component:       `u-gotop`
+// ========================================================================
+
+.u-gotop {
+    $size: $u-gotop_size;
+    background: #ccc;
+}
+
+.u-gotop:hover {
+    $opacity: 0.9;
+}

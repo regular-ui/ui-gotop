@@ -1,0 +1,3 @@
+<div class="u-gotop u-gotop-{position} {class}" z-dis={disabled} r-hide={!visible} on-click={this.gotop()}>
+    {#inc this.$body}
+</div>

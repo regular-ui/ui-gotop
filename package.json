@@ -1,0 +1,16 @@
+{
+  "name": "rgui-ui-gotop",
+  "description": "Regular UI - Gotop",
+  "version": "0.2.0",
+  "author": "Rainfore <rainforest92@126.com>",
+  "main": "./index.js",
+  "repository": "regular-ui/ui-gotop",
+  "homepage": "http://regular-ui.github.io",
+  "bugs": {"url": "http://github.com/regular-ui/ui-gotop/issues"},
+  "license": "MIT",
+  "keywords": ["regular", "ui", "gotop"],
+  "tags": ["regular", "ui", "gotop"],
+  "dependencies": {
+    "rgui-ui-base": "0.2.0-alpha.2"
+  }
+}
