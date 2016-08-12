@@ -21,8 +21,7 @@ Regular UI - Gotop
 
 ## Gotop（回到顶部）
 
-- 基础示例+API: https://regular-ui.github.io/ui-gotop/gotop/index.html
-- 进阶案例: https://regular-ui.github.io/ui-gotop/gotop/case.html
+- 基础示例+进阶案例+API: https://regular-ui.github.io/ui-gotop/gotop/index.html
 
 ## Copyright and License
 
