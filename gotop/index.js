@@ -18,11 +18,11 @@ const Gotop = Component.extend({
      * @override
      */
     config() {
-        this.data = Object.assign({
+        this.defaults({
             position: 'bottomright',
             scrollParent: document.body,
             hideBeforeScroll: true,
-        }, this.data);
+        });
         this.supr();
 
         if (this.data.hideBeforeScroll)
