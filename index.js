@@ -1,3 +1,3 @@
-import Gotop from './gotop';
+import Gotop from './src/gotop';
 
 export { Gotop };

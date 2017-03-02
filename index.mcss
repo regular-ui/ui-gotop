@@ -1,1 +1,1 @@
-@import './gotop/index.mcss';
+@import './src/gotop/index.mcss';
